@@ -7,3 +7,4 @@
 this is fantastic.$\int {{x^3}} dx$
 ![[Drawing 2024-09-01 19.56.08.excalidraw]]
 $$\int {{x^3}} dx$$
+few more changes
