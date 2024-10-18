@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff6f7d611267c13b",
@@ -164,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e52c436b61595898",
+  "active": "939523f064b34e8b",
   "lastOpenFiles": [
     "Literature Notes/adibSeeWallsWiFi2013.md",
     "Zotero Template.md",
-    "Zotero Template 1.md",
+    "Zotero Template.md",
     "Attachments/seitzBlackHatPython2021/image-4-x207-y77.png",
     "Learned from Qt/C++ Qt build process.md",
     "Learned from Qt/C++ build process.md",
