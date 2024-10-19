@@ -52,6 +52,8 @@ dateread:
 > <mark style="background-color: #2ea8e5">There are two types of languages  • Formal Languages (Syntactic languages) • Informal Languages (Semantic languages)</mark>  
 > 
 
+^5880d6
+
 
 <mark style="background-color: #2ea8e5">Quote</mark>
 
