@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Template.md",
+                "file": "Literature Notes/CS402TheoryAutomata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zotero Template"
+              "title": "CS402TheoryAutomata"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zotero Template.md",
+                "file": "Literature Notes/CS402TheoryAutomata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zotero Template"
+              "title": "Backlinks for CS402TheoryAutomata"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zotero Template.md",
+                "file": "Literature Notes/CS402TheoryAutomata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zotero Template"
+              "title": "Outgoing links from CS402TheoryAutomata"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zotero Template.md"
+                "file": "Literature Notes/CS402TheoryAutomata.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Zotero Template"
+              "title": "Outline of CS402TheoryAutomata"
             }
           }
         ]
@@ -163,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "939523f064b34e8b",
+  "active": "e52c436b61595898",
   "lastOpenFiles": [
+    "Zotero Template.md",
+    "Literature Notes/CS402TheoryAutomata.md",
     "Literature Notes/adibSeeWallsWiFi2013.md",
-    "Zotero Template.md",
-    "Zotero Template.md",
     "Attachments/seitzBlackHatPython2021/image-4-x207-y77.png",
     "Learned from Qt/C++ Qt build process.md",
     "Learned from Qt/C++ build process.md",
