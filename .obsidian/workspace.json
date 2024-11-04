@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCS/S5/CS402 Theory of Automata/Lecture 1.md",
+                "file": "BSCS/S5/CS502 Fundamentals of Algorithms/Info about Big O in Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "Info about Big O in Algorithms"
             }
           },
           {
@@ -179,8 +179,11 @@
   },
   "active": "e52c436b61595898",
   "lastOpenFiles": [
-    "Literature Notes/CS402TheoryAutomata.md",
+    "BSCS/S5/CS502 Fundamentals of Algorithms/Untitled.md",
     "BSCS/S5/CS402 Theory of Automata/Lecture 1.md",
+    "BSCS/S5/CS502 Fundamentals of Algorithms/Info about Big O in Algorithms.md",
+    "BSCS/S5/CS502 Fundamentals of Algorithms",
+    "Literature Notes/CS402TheoryAutomata.md",
     "BSCS/S5/CS402 Theory of Automata",
     "BSCS/S5",
     "BSCS",
