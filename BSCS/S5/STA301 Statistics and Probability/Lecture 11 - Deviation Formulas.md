@@ -25,3 +25,22 @@ Mean deviation: $d = X - \widetilde X$ *(Using median)*
 - Mean average = $\overline X  = \frac{{\sum {fX} }}{{\sum f }}$
 
 ## Co-efficient of Mean Deviation
+### For un-grouped data
+$$
+\frac{{M.D}}{{\overline X }} = \frac{{\sum {|d|} }}{{\overline X }}{\rm{ or }}\frac{{\sum {|d|} }}{{\widetilde X}} = \frac{{\sum {|X - \overline X |} }}{{\overline X }}{\rm{ or }}\frac{{\sum {|X - \widetilde X|} }}{{\widetilde X}}
+$$
+### For grouped data
+$$
+\frac{{M.D}}{{\sum f }} = \frac{{\sum {f|d|} }}{{\sum f }}{\rm{  = }}\frac{{\sum {f|X - \overline X |} }}{{\sum f }}{\rm{ or }}\frac{{\sum {f|X - \widetilde X|} }}{{\sum f }}
+$$
+
+## Variances and Standard Deviation (S.D)
+### For un-grouped data
+Variances (${s^2}$) = $\frac{{\sum {{{(X - \overline X )}^2}} }}{n}$ 
+Standard deviation (s) = $\sqrt {{s^2}} {\text{ or }}\sqrt {\frac{{\sum {{{(X - \overline X )}^2}} }}{n}}$ 
+### For grouped data
+Variances (${s^2}$) = ${\frac{{\sum {f{{(X - \overline X )}^2}} }}{{\sum f }}}$
+Standard deviation (s) = $\sqrt {{s^2}} {\rm{ or }}\sqrt {\frac{{\sum {f{{(X - \overline X )}^2}} }}{{\sum f }}}$
+
+**Coefficient of Standard deviation(S.D)** = (S.D/mean)*100
+**Coefficient of Variance** = (${s^2}$/mean)*100
