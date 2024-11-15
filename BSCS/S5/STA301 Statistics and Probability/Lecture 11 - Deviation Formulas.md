@@ -8,3 +8,4 @@ Mean deviation can be found using 2 methods.
 1- Mean average
 2- Median
 ### For un-grouped data
+Mean deviation: $\d = X - \overline X \$
