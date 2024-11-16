@@ -7,6 +7,9 @@ Median < Mid quartile range < Mid-range
 ## Negatively skewed
 Median > Mid quartile range > Mid-range
 
+---
+
+*This information is obtained through a youtube video*=[Chebyshev's Theorem](https://www.youtube.com/watch?v=ZXq0ygaZuwg)
 ## Chebyshev's Theorem
 This theorem gives minimum proportion of data that is within "k" standard deviations of the mean.
 **Formula to find this:** = $1 - \frac{1}{{{k^2}}}$ where k>1.
@@ -17,3 +20,5 @@ See this below image:
     - For k=2 or 2nd quartile, 75% of data lies within the specific range.
     - And so on, so forth.
 ![[Chebyshev graphs.excalidraw]]
+For better understanding, see the below image: -
+![[Chebyshev_Example.png]]
