@@ -53,12 +53,14 @@
             "id": "df64a12e5608b1b9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "BSCS/S5/CS402 Theory of Automata/Lecture 1.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Lecture 1"
             }
           },
           {
@@ -132,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff6f7d611267c13b",
@@ -221,13 +224,13 @@
   "active": "df64a12e5608b1b9",
   "lastOpenFiles": [
     "BSCS/S5/STA301 Statistics and Probability/Lecture 12 - Imp. Info about Curves.md",
+    "BSCS/S5/CS402 Theory of Automata/Lecture 1.md",
     "BSCS/S5/STA301 Statistics and Probability/Chebyshev_Example_part2.PNG",
     "BSCS/S5/STA301 Statistics and Probability/Chebyshev_Example.png",
     "Excalidraw/Chebyshev graphs.excalidraw.md",
     "BSCS/S5/CS502 Fundamentals of Algorithms/Info about Big O in Algorithms.md",
     "BSCS/S5/STA301 Statistics and Probability/Lecture 11 - Deviation Formulas.md",
     "BSCS/S5/STA301 Statistics and Probability",
-    "BSCS/S5/CS402 Theory of Automata/Lecture 1.md",
     "BSCS/S5/CS502 Fundamentals of Algorithms/Untitled.md",
     "BSCS/S5/CS502 Fundamentals of Algorithms",
     "Literature Notes/CS402TheoryAutomata.md",
