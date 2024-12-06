@@ -81,3 +81,16 @@ The language consisting of Λ and the strings s defined over Σ such that Rev(s)
 For Σ={a,b},
 PALINDROME={Λ , a, b, aa, bb, aaa, aba, bab, bbb, ...}
 
+*There are as many palindromes of length 2n as there are of length 2n-1.*
+
+*Number of strings of length ‘m’ defined over alphabet of ‘n’ letters is ${n^m}$.*
+
+**Examples: -**
+- The language of strings of length 2, defined over Σ={a,b} is L={aa, ab, ba, bb} i.e. number of strings = ${2^2}$.
+- The language of strings of length 3, defined over Σ={a,b} is L={aaa, aab, aba, baa, abb, bab, bba, bbb} i.e. number of strings = ${2^3}$
+
+#### Some Key points
+- The number of palindromes of length 2n will be ${2^n}$.
+- The number of palindromes of length 2n-1 will be ${2^{n - 1}}$.
+
+In summary, the total number of palindromes of even length (2n) equals the number of palindromes of odd length (2n-1), and both are ${2^n}$.
