@@ -41,12 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCS/S5/STA301 Statistics and Probability/Lecture 12 - Imp. Info about Curves.md",
+                "file": "BSCS/S5/CS402 Theory of Automata/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Imp. Info about Curves"
+              "title": "Lecture 1"
+            }
+          },
+          {
+            "id": "df64a12e5608b1b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff6f7d611267c13b",
@@ -207,12 +218,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ceb23edd2fe36e7",
+  "active": "df64a12e5608b1b9",
   "lastOpenFiles": [
+    "BSCS/S5/STA301 Statistics and Probability/Lecture 12 - Imp. Info about Curves.md",
     "BSCS/S5/STA301 Statistics and Probability/Chebyshev_Example_part2.PNG",
     "BSCS/S5/STA301 Statistics and Probability/Chebyshev_Example.png",
     "Excalidraw/Chebyshev graphs.excalidraw.md",
-    "BSCS/S5/STA301 Statistics and Probability/Lecture 12 - Imp. Info about Curves.md",
     "BSCS/S5/CS502 Fundamentals of Algorithms/Info about Big O in Algorithms.md",
     "BSCS/S5/STA301 Statistics and Probability/Lecture 11 - Deviation Formulas.md",
     "BSCS/S5/STA301 Statistics and Probability",
