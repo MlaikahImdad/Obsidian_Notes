@@ -10,3 +10,7 @@ Given Σ, then the Kleene Star Closure of the alphabet Σ, denoted by Σ*, is th
 Plus Operation is same as Kleene Star Closure except that it does not generate Λ (null string), automatically.
 **Examples: -**
 - If Σ = {aab, c} Then ${\Sigma ^ + }$ = {aab, c, aabaab, aabc, caab, cc, ....}
+
+> a* can be considered to be all possible strings defined over {a}, which shows that a* generates Λ, a, aa, aaa, ...
+  ${a^+}$ can be considered to be all possible non empty strings defined over {a}, which shows that a+ generates a, aa, aaa, aaaa, ...
+
