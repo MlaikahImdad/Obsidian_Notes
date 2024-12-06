@@ -22,3 +22,5 @@ See this below image:
 ![[Chebyshev graphs.excalidraw]]
 For better understanding, see the below image: -
 ![[Chebyshev_Example.png]]
+Have a look at its 2nd part which shows that the 177,800 people of the city have weight between 140lbs to 200lbs.
+![[Chebyshev_Example_part2.png]]

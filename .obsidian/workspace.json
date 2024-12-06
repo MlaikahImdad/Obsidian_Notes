@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff6f7d611267c13b",
@@ -208,6 +209,7 @@
   },
   "active": "5ceb23edd2fe36e7",
   "lastOpenFiles": [
+    "BSCS/S5/STA301 Statistics and Probability/Chebyshev_Example_part2.PNG",
     "BSCS/S5/STA301 Statistics and Probability/Chebyshev_Example.png",
     "Excalidraw/Chebyshev graphs.excalidraw.md",
     "BSCS/S5/STA301 Statistics and Probability/Lecture 12 - Imp. Info about Curves.md",
